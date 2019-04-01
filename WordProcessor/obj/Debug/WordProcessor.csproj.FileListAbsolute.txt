@@ -1,0 +1,11 @@
+C:\Manjiree\Projects\WordProcessor\WordProcessor\bin\Debug\WordProcessor.exe.config
+C:\Manjiree\Projects\WordProcessor\WordProcessor\bin\Debug\WordProcessor.exe
+C:\Manjiree\Projects\WordProcessor\WordProcessor\bin\Debug\WordProcessor.pdb
+C:\Manjiree\Projects\WordProcessor\WordProcessor\obj\Debug\WordProcessor.exe
+C:\Manjiree\Projects\WordProcessor\WordProcessor\obj\Debug\WordProcessor.pdb
+C:\Manjiree\Projects\WordProcessor\WordProcessor\bin\Debug\Newtonsoft.Json.dll
+C:\Manjiree\Projects\WordProcessor\WordProcessor\bin\Debug\Newtonsoft.Json.pdb
+C:\Manjiree\Projects\WordProcessor\WordProcessor\bin\Debug\Newtonsoft.Json.xml
+C:\Manjiree\Projects\WordProcessor\WordProcessor\obj\Debug\WordProcessor.csprojAssemblyReference.cache
+C:\Manjiree\Projects\WordProcessor\WordProcessor\obj\Debug\WordProcessor.csproj.CoreCompileInputs.cache
+C:\Manjiree\Projects\WordProcessor\WordProcessor\obj\Debug\WordProcessor.csproj.CopyComplete
